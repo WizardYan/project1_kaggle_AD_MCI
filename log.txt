@@ -1,0 +1,35 @@
+# This is the log for Kaggle competation
+# Hope that we will get a good grade
+# 2017 March 24, Today is Miss C's birthday,Best wishes
+
+# load the data
+
+
+Normalize: the std should be 1, mean should be 0
+
+
+csv tackle:
+
+1. remove "Left-WM-hypointensities,Right-WM-hypointensities,Left-non-WM-hypointensities",'Right-non-WM-hypointensities'
+
+
+remove max/min > 10
+[5,6,21,23,24,35,36,37,38,39,40,41,42,43,44,49,52,61,65,67,68,69,70,283,293,361,427,430]
+
+questions:
+
+1. Age: Which kind of people(men or women) is more likely to have AD?
+2.
+
+
+to remove in excel is :
+
+[6,7,14,15,24,25,38,39,40,41,43,44] remove
+[72-141 ] <10  *1000.0
+[280-415] <10  *1000.0
+[416-431]  >10000  /1000.0
+
+
+
+35,37,38,40,41,425
+
